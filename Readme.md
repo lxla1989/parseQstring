@@ -3,7 +3,7 @@
 ## About
 
 ```
-Just change a query string to a mongo's object
+Just change a query string to a mongo's match object
 ```
 
 ## Installation
