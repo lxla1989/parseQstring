@@ -9,7 +9,7 @@ Just change a query string to a mongo's match object
 ## Installation
 
 ```
-$ npm install parseqstring
+$ npm install parseqstring -g
 ```
 
 ## Example
